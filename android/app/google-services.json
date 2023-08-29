@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "836619388062",
+    "project_id": "nexhomecare",
+    "storage_bucket": "nexhomecare.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:836619388062:android:95b10c58acbe481485278f",
+        "android_client_info": {
+          "package_name": "com.example.nexhomecare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "836619388062-1r95cuctiaa3onjmogaher21m8gu8lm8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDD-oqF958F_8-Ot1zJDX4rJ0kn25D8uPU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "836619388062-1r95cuctiaa3onjmogaher21m8gu8lm8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
